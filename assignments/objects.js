@@ -18,6 +18,21 @@ const example = {
 }
 
 // Write your intern objects here:
+const Mitzi = {
+  "id": 1,
+  "name": "Mitzi",
+  "email": "mmelloy0@psu.edu",
+  "gender": "F"
+ 
+}
+const Kennan = {
+  "id": 2,
+  "name": "Mitzi",
+  "email": "kdiben1@tinypic.com",
+  "gender": "M"
+ 
+}
+
 
 
 // ==== Challenge 2: Reading Object Data ==== 
@@ -32,6 +47,8 @@ const example = {
 // Gannie's name
 
 // Antonietta's Gender
+
+
 
 // ==== Challenge 3: Object Methods ==== 
 // Give Kennan the ability to say "Hello, my name is Kennan!" Use the console.log provided as a hint.
